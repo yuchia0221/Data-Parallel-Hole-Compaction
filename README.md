@@ -27,7 +27,7 @@
 
 Makefile:
 
-> a Makefile that includes recipes for building and running your program. Note: this command will only work on the login node displaying using X11
+> a Makefile that includes recipes for building and running your program.
 
 ```bash
 make                # builds your code

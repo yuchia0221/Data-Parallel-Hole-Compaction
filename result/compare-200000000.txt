@@ -1,0 +1,4 @@
+fill: N = 200000000, debug_dump = 0
+Cuda version of exclusive scan finished in: 11.05 ms
+Self-implemented version of exclusive scan finished in: 243.13 ms
+verification succeeded; 180021478 non holes!

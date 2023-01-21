@@ -11,9 +11,9 @@
 
     .
     ├── result                       # Experiment Resultsresults
-    │   ├── number.txt           # Execution result given input size number with Cuda built-in exclusive scan
-    │   ├── my-number.txt        # Execution result given input size number with self-implemented version of exclusive scan
-    │   └── compare-number.txt   # Comparision of two versions of exclusive scan
+    │   ├── number.txt               # Execution result given input size number with Cuda built-in exclusive scan
+    │   ├── my-number.txt            # Execution result given input size number with self-implemented version of exclusive scan
+    │   └── compare-number.txt       # Comparision of two versions of exclusive scan
     ├── fill.cu                      # Parallelized Version
     ├── scan.cu                      # Two versions of the exclusive scan algorithm
     ├── scan.hpp                     # Header File for exclusive scan
